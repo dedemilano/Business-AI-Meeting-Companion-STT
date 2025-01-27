@@ -5,3 +5,4 @@ gradio==4.44.0
 langchain==0.0.343 
 ibm_watson_machine_learning==1.0.335 
 huggingface-hub==0.19.4
+ffmpeg
